@@ -49,7 +49,7 @@ def main():
     "Dockerfile",
     "requirements.txt",
     "setup.py",
-    "research/"
+    "research/trials.ipynb"
     ]
 
     setupProjectTemplate(files_list)
